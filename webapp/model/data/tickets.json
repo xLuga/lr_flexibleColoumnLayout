@@ -1,0 +1,22 @@
+{
+    "tickets": [
+        {
+            "ticketID": "2023011300001",
+            "createdBy": "John",
+            "createdOn": "2021-01-13",
+            "description": "flexibleColumnLayout Muster erstellen"
+        },
+        {
+            "ticketID": "2023011300002",
+            "createdBy": "Daniel",
+            "createdOn": "2022-01-13",
+            "description": "OData Service einbinden"
+        },
+        {
+            "ticketID": "2023011300003",
+            "createdBy": "John",
+            "createdOn": "2022-12-13",
+            "description": "CSS anpassen"
+        }
+    ]
+}

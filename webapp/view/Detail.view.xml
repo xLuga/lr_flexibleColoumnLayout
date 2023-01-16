@@ -1,0 +1,17 @@
+<mvc:View controllerName="lr.muster.fcl.controller.Detail" xmlns="sap.f" xmlns:m="sap.m" xmlns:form="sap.ui.layout.form" xmlns:mvc="sap.ui.core.mvc">
+    <DynamicPage>
+        <header>
+            <DynamicPageHeader>
+                <content>
+                    <m:OverflowToolbar>
+                        <m:content>
+                            <m:ToolbarSpacer />
+                            <m:OverflowToolbarButton text="close" icon="sap-icon://nav-back" press="navToMaster" />
+                        </m:content>
+                    </m:OverflowToolbar>
+                    <m:Title text="{i18n>dTitel}" />
+                </content>
+            </DynamicPageHeader>
+        </header>
+    </DynamicPage>
+</mvc:View>
